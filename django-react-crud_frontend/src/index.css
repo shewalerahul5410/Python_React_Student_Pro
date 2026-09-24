@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+  background: #f5f7fb;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.auth-container {
+  min-height: calc(100vh - 56px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+}
+
+.auth-card {
+  width: 100%;
+  max-width: 430px;
+  border: none;
+  border-radius: 15px;
+}
+
+.card {
+  border-radius: 12px;
+}
+
+.table {
+  vertical-align: middle;
+}
+
+.navbar-brand {
+  letter-spacing: 0.5px;
+}
+
+.form-control {
+  padding: 10px 12px;
+}
+
+.btn {
+  border-radius: 7px;
+}
+
+.alert {
+  border-radius: 8px;
+}
